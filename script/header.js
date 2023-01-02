@@ -16,11 +16,7 @@ function createNav() {
 
 function createFoot() {
 	foot = document.createElement("footer");
-	foot.innerHTML = "&copy; " + new Date().getFullYear() + " ";
-	var a = document.createElement("a");
-	a.href = "mailto:mfeigenbaum23@gmail.com";
-	a.innerHTML="Mitch Feigenbaum";
-	foot.append(a);
+	foot.innerHTML = "&copy; " + new Date().getFullYear() + " Dyl&rsquo;s Shop";
 }
 
 createNav();

@@ -53,7 +53,7 @@ a:active {
 	color: lime;
 	font-family: consolas, sans-serif;
 	font-size: 14pt;
-	margin: 45px auto 80px auto;
+	margin: 45px 0 80px 0;
 	display: block;
 	max-width: 1500px;
 }

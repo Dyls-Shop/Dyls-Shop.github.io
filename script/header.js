@@ -1,7 +1,7 @@
 const PAGES = {
 	Home: "index",
 	Grinders: "grinders",
-	Rolling Trays : "trays"
+	Rolling-Trays : "trays"
 };
 let nav, foot;
 

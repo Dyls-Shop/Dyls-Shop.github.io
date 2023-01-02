@@ -1,5 +1,6 @@
 const PAGES = {
-	Home: "index"
+	Home: "index",
+	Grinders: "grinders"
 };
 let nav, foot;
 
